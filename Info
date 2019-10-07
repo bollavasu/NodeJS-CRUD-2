@@ -1,0 +1,11 @@
+
+
+
+node customer.js
+
+http://localhost:8081
+
+http://localhost:8081/getCustomers      (GET)
+http://localhost:8081/addCustomer       (POST)
+http://localhost:8081/updateCustomer    (PUT)
+http://localhost:8081/deleteCustomer    (DELETE)
